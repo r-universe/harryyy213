@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "descstatsr"]
+	path = descstatsr
+	url = https://github.com/cran/descstatsr
+	shallow = true
+	registered = true
